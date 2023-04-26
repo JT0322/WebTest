@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.col-auto-custom {
+  -ms-flex: 0 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+  max-width: 100%;
+	padding-right: 15px;
+  padding-left: 15px;
+}
